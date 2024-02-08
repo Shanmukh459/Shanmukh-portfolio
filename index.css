@@ -35,7 +35,9 @@
     --line-height-small: 1.2;
 
     --black: #000;
-    --pink: #a4161a;
+    --green: #29bf12;
+    --pink: #e01e37;
+    --darkred: #a4161a;
     --white: #f0e9f2;
     --white-1: #e5e5e6da;
 
@@ -403,9 +405,12 @@ body:not(.user-is-tabbing) a:focus {
 /* ----- Header ----- */
 /* --------------------------------------- */
 
+h1 span {
+    font-family: 'Jost', sans-serif;
+}
 .header {
     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('./images/header2.jpg');
+        url('./images/header3.jpg');
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -599,6 +604,10 @@ body:not(.user-is-tabbing) a:focus {
 
 .footer__social-image {
     height: 4rem;
+}
+
+.footer__social-image:hover{
+    filter: invert(38%) sepia(88%) saturate(6598%) hue-rotate(340deg) brightness(88%) contrast(100%);
 }
 
 .footer__github-buttons {
