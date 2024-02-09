@@ -35,7 +35,7 @@ Skills: JavaScript · React · HTML · CSS · Python · Git · Docker · Kuberne
 ## Extracurriculars
 
 - Teaching assistant at San Jose State University
-- Hip-Hop artist ([youtube](https://www.youtube.com/@shanmukhkrishna459), [instagram](https://www.instagram.com/___shanmukh___/)
+- Hip-Hop artist ([youtube](https://www.youtube.com/@shanmukhkrishna459), [instagram](https://www.instagram.com/___shanmukh___/))
 
 
 ## Features of this application
