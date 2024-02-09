@@ -20,11 +20,17 @@ Skills: JavaScript · React · HTML · CSS · Python · Git · Docker · Kuberne
 ## Skillset
 
 **Programming Languages**: Python, Java, C#, C, C++
+
 **Web Technologies**: HTML, CSS, JavaScript, TypeScript
+
 **Frameworks/libraries**: Django, React, ASP.NET, Flask, NodeJS, Spring Boot, Scikit-learn, TensorFlow, Pandas, NumPy, MATLAB
+
 **Tools**: Tableau, VS Code, IntelliJ, Git, PowerShell, Postman, Artifactory, Jira, Confluence, Bitbucket, Jenkins, Docker, MS Office
+
 **Databases**: MSSQL, PostgreSQL, MongoDB, MySQL, Oracle, Hadoop, SQLite. 
+
 **Cloud Technologies**: AWS, Azure, GCP, Linux, Heroku
+
 
 ## Extracurriculars
 
