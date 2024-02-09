@@ -5,6 +5,7 @@ To View the live site click [here &rarr;](https://shanmukh-portfolio.vercel.app/
 ## Introduction
 
 Hey all!🙋‍♂️
+
 Thank you for viewing my profile. I have tried my best to represent my work in the portfolio. In addition to the projects I mentioned in the portfolio, I have a professional experience of working as a Software Engineer at NCR Corporation
 
 - Built self-service web application using HTML, javascript, CSS and React framework(builtfor internal usage) and deployed this to the server.
